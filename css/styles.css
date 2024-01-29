@@ -380,7 +380,7 @@ img {
   transform: translateY(100%);
 }
 .portfolio-item .portfolio-text {
-  transform: translateY(0%);
+  transform: translateY(100%);
 }
 
 /* Footer */

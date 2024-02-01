@@ -102,7 +102,7 @@ img {
   letter-spacing: 0.02em;
 }
 
-.header-studio::after {
+.header-menu-link::after {
   content: "";
   width: 100%;
   position: absolute;
@@ -318,8 +318,8 @@ img {
 .team-icon-svg {
   fill: #f4f4fd;
 }
-.team-icon-item:hover,
-.team-icon-item:focus {
+.icon-link:hover,
+.icon-link:focus {
   background-color: #404bbf;
 }
 /* Section4 */
@@ -455,7 +455,7 @@ img {
 .footer-image {
   fill: #f4f4fd;
 }
-.footer-item:hover,
-.footer-item:focus {
+.footer-link-item:hover,
+.footer-link-item:focus {
   background-color: #31d0aa;
 }
